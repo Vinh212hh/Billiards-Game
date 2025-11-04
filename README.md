@@ -95,4 +95,5 @@ Safe UI updates through SwingUtilities.invokeLater() for dialog boxes.
 
 🧑‍💻 Author
 
-Developed as an educational project to explore Java Swing, object-oriented programming, and basic 2D game logic.
+Trinh Quang Vinh 
+Video : https://www.youtube.com/watch?v=b-6P8e0YqGA
